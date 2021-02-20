@@ -2,6 +2,10 @@
   "name": "merng",
   "version": "1.0.0",
   "description": "A social media app, with MERNG",
+  "engines": {
+    "node": "12.11.1",
+    "npm":  "6.14.8"
+  },
   "main": "index.js",
   "scripts": {
     "serve": "node index.js",
